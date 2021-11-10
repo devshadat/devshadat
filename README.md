@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devshadat
 - 🌱 I’m a Software Engineer
-- 👀 I’m interested in Android, Flutter, APIs integration, R&D, Sotware Architecture & Design 
+- 👀 I’m interested in Android, Flutter, APIs integration, R&D, Software Architecture & Design 
 
 - 💞️ I’m always up for challenge 
 - 📫 How to reach me - devshadat@gmail.com 
